@@ -1,101 +1,103 @@
-[
-  {
-    "id": 1,
-    "title": "Zamonaviy villa",
-    "location": "Toshkent, Yunusobod",
-    "price": "$250,000",
-    "rooms": 5,
-    "area": "300 m²",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-    "slug": "zamonaviy-villa-yunusobod",
-    "status": "active"
-  },
-  {
-    "id": 2,
-    "title": "Shahar markazidagi kvartira",
-    "location": "Toshkent, Shayxontohur",
-    "price": "$120,000",
-    "rooms": 3,
-    "area": "100 m²",
-    "image": "https://images.unsplash.com/photo-1598928506312-0c4b4a718f50",
-    "slug": "kvartira-shayxontohur",
-    "status": "sold"
-  },
-  {
-    "id": 3,
-    "title": "Hovli uy",
-    "location": "Namangan, Chust",
-    "price": "$90,000",
-    "rooms": 4,
-    "area": "200 m²",
-    "image": "https://images.unsplash.com/photo-1572120360610-d971b9b78827",
-    "slug": "hovli-uy-chust",
-    "status": "active"
-  },
-  {
-    "id": 4,
-    "title": "Qishloqdagi sokin uy",
-    "location": "Surxondaryo, Denov",
-    "price": "$75,000",
-    "rooms": 3,
-    "area": "180 m²",
-    "image": "https://images.unsplash.com/photo-1599423300746-b62533397364",
-    "slug": "qishloq-uy-denov",
-    "status": "rented"
-  },
-  {
-    "id": 5,
-    "title": "Loft uslubidagi kvartira",
-    "location": "Toshkent, Olmazor",
-    "price": "$110,000",
-    "rooms": 2,
-    "area": "90 m²",
-    "image": "https://images.unsplash.com/photo-1629119242260-5b8b416e4f9a",
-    "slug": "loft-kvartira-olmazor",
-    "status": "active"
-  },
-  {
-    "id": 6,
-    "title": "Bog‘li hashamatli uy",
-    "location": "Samarqand, Registon",
-    "price": "$270,000",
-    "rooms": 6,
-    "area": "350 m²",
-    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
-    "slug": "hashamatli-uy-samarqand",
-    "status": "sold"
-  },
-  {
-    "id": 7,
-    "title": "Ijaraga kvartira",
-    "location": "Farg‘ona, Qo‘qon",
-    "price": "$500/month",
-    "rooms": 2,
-    "area": "80 m²",
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-    "slug": "ijara-kvartira-qoqon",
-    "status": "rented"
-  },
-  {
-    "id": 8,
-    "title": "Panoramali uy",
-    "location": "Toshkent, Sergeli",
-    "price": "$160,000",
-    "rooms": 4,
-    "area": "220 m²",
-    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
-    "slug": "panoramali-uy-sergeli",
-    "status": "active"
-  },
-  {
-    "id": 9,
-    "title": "Arzon uy",
-    "location": "Buxoro, G‘ijduvon",
-    "price": "$55,000",
-    "rooms": 3,
-    "area": "140 m²",
-    "image": "https://images.unsplash.com/photo-1600566752740-02d3b1ebbe39",
-    "slug": "arzon-uy-gijduvon",
-    "status": "active"
-  }
-]
+{
+  "homes": [
+    {
+      "id": 1,
+      "title": "Zamonaviy villa",
+      "location": "Toshkent, Yunusobod",
+      "price": "$250,000",
+      "rooms": 5,
+      "area": "300 m²",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "slug": "zamonaviy-villa-yunusobod",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "Shahar markazidagi kvartira",
+      "location": "Toshkent, Shayxontohur",
+      "price": "$120,000",
+      "rooms": 3,
+      "area": "100 m²",
+      "image": "https://images.unsplash.com/photo-1598928506312-0c4b4a718f50",
+      "slug": "kvartira-shayxontohur",
+      "status": "sold"
+    },
+    {
+      "id": 3,
+      "title": "Hovli uy",
+      "location": "Namangan, Chust",
+      "price": "$90,000",
+      "rooms": 4,
+      "area": "200 m²",
+      "image": "https://images.unsplash.com/photo-1572120360610-d971b9b78827",
+      "slug": "hovli-uy-chust",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "title": "Qishloqdagi sokin uy",
+      "location": "Surxondaryo, Denov",
+      "price": "$75,000",
+      "rooms": 3,
+      "area": "180 m²",
+      "image": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+      "slug": "qishloq-uy-denov",
+      "status": "rented"
+    },
+    {
+      "id": 5,
+      "title": "Loft uslubidagi kvartira",
+      "location": "Toshkent, Olmazor",
+      "price": "$110,000",
+      "rooms": 2,
+      "area": "90 m²",
+      "image": "https://images.unsplash.com/photo-1629119242260-5b8b416e4f9a",
+      "slug": "loft-kvartira-olmazor",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "title": "Bog‘li hashamatli uy",
+      "location": "Samarqand, Registon",
+      "price": "$270,000",
+      "rooms": 6,
+      "area": "350 m²",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "slug": "hashamatli-uy-samarqand",
+      "status": "sold"
+    },
+    {
+      "id": 7,
+      "title": "Ijaraga kvartira",
+      "location": "Farg‘ona, Qo‘qon",
+      "price": "$500/month",
+      "rooms": 2,
+      "area": "80 m²",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
+      "slug": "ijara-kvartira-qoqon",
+      "status": "rented"
+    },
+    {
+      "id": 8,
+      "title": "Panoramali uy",
+      "location": "Toshkent, Sergeli",
+      "price": "$160,000",
+      "rooms": 4,
+      "area": "220 m²",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "slug": "panoramali-uy-sergeli",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "title": "Arzon uy",
+      "location": "Buxoro, G‘ijduvon",
+      "price": "$55,000",
+      "rooms": 3,
+      "area": "140 m²",
+      "image": "https://images.unsplash.com/photo-1600566752740-02d3b1ebbe39",
+      "slug": "arzon-uy-gijduvon",
+      "status": "active"
+    }
+  ]
+}
