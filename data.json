@@ -6,7 +6,7 @@
       "location": "Toshkent, Yunusobod",
       "price": "$250,000",
       "rooms": 5,
-      "area": "300 m²",
+      "area": "300",
       "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "zamonaviy-villa-yunusobod",
       "status": "active"
@@ -17,7 +17,7 @@
       "location": "Toshkent, Shayxontohur",
       "price": "$120,000",
       "rooms": 3,
-      "area": "100 m²",
+      "area": "100",
       "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "kvartira-shayxontohur",
       "status": "sold"
@@ -28,7 +28,7 @@
       "location": "Namangan, Chust",
       "price": "$90,000",
       "rooms": 4,
-      "area": "200 m²",
+      "area": "200",
       "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "hovli-uy-chust",
       "status": "active"
@@ -39,7 +39,7 @@
       "location": "Surxondaryo, Denov",
       "price": "$75,000",
       "rooms": 3,
-      "area": "180 m²",
+      "area": "180",
       "image": "https://images.unsplash.com/photo-1599423300746-b62533397364",
       "slug": "qishloq-uy-denov",
       "status": "rented"
@@ -50,7 +50,7 @@
       "location": "Toshkent, Olmazor",
       "price": "$110,000",
       "rooms": 2,
-      "area": "90 m²",
+      "area": "90",
       "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "loft-kvartira-olmazor",
       "status": "active"
@@ -61,7 +61,7 @@
       "location": "Samarqand, Registon",
       "price": "$270,000",
       "rooms": 6,
-      "area": "350 m²",
+      "area": "350",
       "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
       "slug": "hashamatli-uy-samarqand",
       "status": "sold"
@@ -72,7 +72,7 @@
       "location": "Farg‘ona, Qo‘qon",
       "price": "$500/month",
       "rooms": 2,
-      "area": "80 m²",
+      "area": "80",
       "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
       "slug": "ijara-kvartira-qoqon",
       "status": "rented"
@@ -83,7 +83,7 @@
       "location": "Toshkent, Sergeli",
       "price": "$160,000",
       "rooms": 4,
-      "area": "220 m²",
+      "area": "220",
       "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
       "slug": "panoramali-uy-sergeli",
       "status": "active"
@@ -94,7 +94,7 @@
       "location": "Buxoro, G‘ijduvon",
       "price": "$55,000",
       "rooms": 3,
-      "area": "140 m²",
+      "area": "140",
       "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "arzon-uy-gijduvon",
       "status": "active"
