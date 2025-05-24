@@ -18,7 +18,7 @@
       "price": "$120,000",
       "rooms": 3,
       "area": "100 m²",
-      "image": "https://images.unsplash.com/photo-1598928506312-0c4b4a718f50",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "kvartira-shayxontohur",
       "status": "sold"
     },
@@ -29,7 +29,7 @@
       "price": "$90,000",
       "rooms": 4,
       "area": "200 m²",
-      "image": "https://images.unsplash.com/photo-1572120360610-d971b9b78827",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "hovli-uy-chust",
       "status": "active"
     },
@@ -51,7 +51,7 @@
       "price": "$110,000",
       "rooms": 2,
       "area": "90 m²",
-      "image": "https://images.unsplash.com/photo-1629119242260-5b8b416e4f9a",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "loft-kvartira-olmazor",
       "status": "active"
     },
@@ -95,7 +95,7 @@
       "price": "$55,000",
       "rooms": 3,
       "area": "140 m²",
-      "image": "https://images.unsplash.com/photo-1600566752740-02d3b1ebbe39",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
       "slug": "arzon-uy-gijduvon",
       "status": "active"
     }
