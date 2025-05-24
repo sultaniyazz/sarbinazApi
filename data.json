@@ -1,0 +1,94 @@
+{
+  "homes": [
+    {
+      "id": 1,
+      "title": "Zamonaviy villa",
+      "location": "Toshkent, Yunusobod",
+      "price": "$250,000",
+      "rooms": 5,
+      "area": "300 m²",
+      "image": "https://source.unsplash.com/featured/?modern-house",
+      "slug": "zamonaviy-villa-yunusobod"
+    },
+    {
+      "id": 2,
+      "title": "Shahar markazidagi kvartira",
+      "location": "Toshkent, Shayxontohur",
+      "price": "$120,000",
+      "rooms": 3,
+      "area": "100 m²",
+      "image": "https://source.unsplash.com/featured/?apartment",
+      "slug": "kvartira-shayxontohur"
+    },
+    {
+      "id": 3,
+      "title": "Hovli uy",
+      "location": "Namangan, Chust",
+      "price": "$90,000",
+      "rooms": 4,
+      "area": "200 m²",
+      "image": "https://source.unsplash.com/featured/?house-yard",
+      "slug": "hovli-uy-chust"
+    },
+    {
+      "id": 4,
+      "title": "Qishloqdagi sokin uy",
+      "location": "Surxondaryo, Denov",
+      "price": "$75,000",
+      "rooms": 3,
+      "area": "180 m²",
+      "image": "https://source.unsplash.com/featured/?village-house",
+      "slug": "qishloq-uy-denov"
+    },
+    {
+      "id": 5,
+      "title": "Loft uslubidagi kvartira",
+      "location": "Toshkent, Olmazor",
+      "price": "$110,000",
+      "rooms": 2,
+      "area": "90 m²",
+      "image": "https://source.unsplash.com/featured/?loft-apartment",
+      "slug": "loft-kvartira-olmazor"
+    },
+    {
+      "id": 6,
+      "title": "Bog‘li hashamatli uy",
+      "location": "Samarqand, Registon",
+      "price": "$270,000",
+      "rooms": 6,
+      "area": "350 m²",
+      "image": "https://source.unsplash.com/featured/?luxury-house",
+      "slug": "hashamatli-uy-samarqand"
+    },
+    {
+      "id": 7,
+      "title": "Ijaraga kvartira",
+      "location": "Farg‘ona, Qo‘qon",
+      "price": "$500/month",
+      "rooms": 2,
+      "area": "80 m²",
+      "image": "https://source.unsplash.com/featured/?rental-apartment",
+      "slug": "ijara-kvartira-qoqon"
+    },
+    {
+      "id": 8,
+      "title": "Panoramali uy",
+      "location": "Toshkent, Sergeli",
+      "price": "$160,000",
+      "rooms": 4,
+      "area": "220 m²",
+      "image": "https://source.unsplash.com/featured/?panoramic-house",
+      "slug": "panoramali-uy-sergeli"
+    },
+    {
+      "id": 9,
+      "title": "Arzon uy",
+      "location": "Buxoro, G‘ijduvon",
+      "price": "$55,000",
+      "rooms": 3,
+      "area": "140 m²",
+      "image": "https://source.unsplash.com/featured/?cheap-house",
+      "slug": "arzon-uy-gijduvon"
+    }
+  ]
+}
