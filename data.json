@@ -2,6 +2,7 @@
   "homes": [
     {
       "id": 1,
+      "adminId": 1,
       "title": "Zamonaviy villa",
       "location": "Toshkent, Yunusobod",
       "price": "$250,000",
@@ -32,6 +33,7 @@
     },
     {
       "id": 2,
+      "adminId": 1,
       "title": "Shahar markazidagi kvartira",
       "location": "Toshkent, Shayxontohur",
       "price": "$120,000",
@@ -58,6 +60,7 @@
     },
     {
       "id": 3,
+      "adminId": 2,
       "title": "Hovli uy",
       "location": "Namangan, Chust",
       "price": "$90,000",
@@ -78,6 +81,7 @@
     },
     {
       "id": 4,
+      "adminId": 3,
       "title": "Qishloqdagi sokin uy",
       "location": "Surxondaryo, Denov",
       "price": "$75,000",
@@ -103,6 +107,7 @@
     },
     {
       "id": 5,
+      "adminId": 2,
       "title": "Loft uslubidagi kvartira",
       "location": "Toshkent, Olmazor",
       "price": "$110,000",
@@ -123,6 +128,7 @@
     },
     {
       "id": 6,
+      "adminId": 4,
       "title": "Bog‘li hashamatli uy",
       "location": "Samarqand, Registon",
       "price": "$270,000",
@@ -152,6 +158,7 @@
     },
     {
       "id": 7,
+      "adminId": 4,
       "title": "Ijaraga kvartira",
       "location": "Farg‘ona, Qo‘qon",
       "price": "$500/month",
@@ -177,6 +184,7 @@
     },
     {
       "id": 8,
+      "adminId": 3,
       "title": "Panoramali uy",
       "location": "Toshkent, Sergeli",
       "price": "$160,000",
@@ -197,6 +205,7 @@
     },
     {
       "id": 9,
+      "adminId": 2,
       "title": "Arzon uy",
       "location": "Buxoro, G‘ijduvon",
       "price": "$55,000",
