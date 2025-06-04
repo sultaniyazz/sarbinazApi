@@ -3,7 +3,7 @@
     {
       "id": 1,
       "adminId": 1,
-      "title": "Zamonaviy villa",
+      "title": "Zamonaviy yatoqxona",
       "location": "Nukus davlat texnika universiteti",
       "price": "2 500 000 Soʻm/oy",
       "rooms": 2,
@@ -29,12 +29,13 @@
           "user": "Malika",
           "text": "Narxi sal qimmatroq shekilli."
         }
-      ]
+      ],
+       "residents": []
     },
    {
   "id": 2,
   "adminId": 1,
-  "title": " ",
+  "title": "Shinam yatoqxona ",
   "location": "Nukus davlat texnika universiteti",
   "price": "3 450 000 Soʻm/oy",
   "rooms": 2,
@@ -75,7 +76,7 @@
     {
       "id": 3,
       "adminId": 1,
-      "title": "Hovli uy",
+      "title": "Zamonaviy yatoqxona",
       "location": "Nukus davlat texnika universiteti ",
       "price": "1 250 000 Soʻm/oy",
       "rooms": 2,
@@ -92,7 +93,8 @@
       "seller": "Otabek Karimov",
       "likes": 45,
       "postedAt": "2025-05-22T12:45:00",
-      "comments": []
+      "comments": [],
+       "residents": []
     }
   ]
 }
