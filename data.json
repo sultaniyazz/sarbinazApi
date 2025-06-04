@@ -6,16 +6,16 @@
       "title": "Zamonaviy villa",
       "location": "Toshkent, Yunusobod",
       "price": "2 500 000 Soʻm/oy",
-      "rooms": 5,
+      "rooms": 2,
       "area": "300",
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208747074.jpg?k=ed12849e907859dc6aca1cffcb41920d1b6c62eec1ffb2430b6cbc241ecf9271&o=&hp=1",
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/3lj28kxn3j69-UZ/image;s=780x1040",
       "slug": "zamonaviy-villa-yunusobod",
       "status": "active",
       "description": "Yangi zamonaviy dizayndagi villa. Hovlisi keng, basseynli, ikki qavatli.",
       "number": "+998901234567",
       "gallery": [
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-        "https://images.unsplash.com/photo-1572120360610-d971b9b78827"
+        "https://frankfurt.apollo.olxcdn.com/v1/files/3lj28kxn3j69-UZ/image;s=780x1040",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsn15YudxEi-e-qlME3lZrPmLLAJe7EY6_o-T2yiZrY6lVUmqlzce1lQF3MX1o8wjKIJk&usqp=CAU"
       ],
       "seller": "Javohir Tursunov",
       "likes": 120,
@@ -37,16 +37,16 @@
       "title": "Shahar markazidagi kvartira",
       "location": "Toshkent, Shayxontohur",
       "price": "3 450 000 Soʻm/oy",
-      "rooms": 3,
+      "rooms": 2,
       "area": "100",
-      "image": "https://storage.realt24.uz/files/01/96/37/019637ff-a443-7212-99e4-98edc52cc812.w900.webp",
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/unr1ihbufu8z2-UZ/image;s=720x909",
       "slug": "kvartira-shayxontohur",
       "status": "sold",
       "description": "Shahar markazida joylashgan zamonaviy kvartira.",
       "number": "+998933445566",
       "gallery": [
-        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-        "https://images.unsplash.com/photo-1599423300746-b62533397364"
+        "https://frankfurt.apollo.olxcdn.com/v1/files/unr1ihbufu8z2-UZ/image;s=720x909",
+        "https://frankfurt.apollo.olxcdn.com/v1/files/y0svw5pabf9a3-UZ/image;s=703x1280"
       ],
       "seller": "Dilshod Akbarov",
       "likes": 89,
@@ -64,15 +64,16 @@
       "title": "Hovli uy",
       "location": "Namangan, Chust",
       "price": "1 250 000 Soʻm/oy",
-      "rooms": 4,
+      "rooms": 2,
       "area": "200",
-      "image": "https://domtut.uz/resources/uploads/post/kakuyu-kvartiru-mozhno-kupit-v-tashkente-za-50000-v-novostroyke.jpg",
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/vmeqjj92tw071-UZ/image;s=1000x750",
       "slug": "hovli-uy-chust",
       "status": "active",
       "description": "Sokin hududda joylashgan hovli uy.",
       "number": "+998935556677",
       "gallery": [
-        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+        "https://frankfurt.apollo.olxcdn.com/v1/files/vmeqjj92tw071-UZ/image;s=1000x750",
+        "https://frankfurt.apollo.olxcdn.com/v1/files/g59a4z781ae03-UZ/image;s=4000x3000"
       ],
       "seller": "Otabek Karimov",
       "likes": 45,
